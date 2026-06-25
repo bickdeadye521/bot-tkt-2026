@@ -9,7 +9,7 @@ The **🤖 Bot TKT 2026** is a powerful multi-platform automation suite designed
 
 <div align="center">
 
-[![Download Bot TKT 2026](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bot-tkt-2026)
+[![Download Bot TKT 2026](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bot-tkt-2026)
 
 </div>
 
@@ -96,7 +96,7 @@ Building automation bots from scratch takes time. Discord bots need coding. Tele
 4. **✅ Select bot type** — Discord, Telegram, or Web
 5. **🚀 Configure and launch**
 
-[![Download Bot TKT 2026](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bot-tkt-2026)
+[![Download Bot TKT 2026](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bot-tkt-2026)
 
 ### Main Interface
 
@@ -246,7 +246,7 @@ Multi-platform automation made easy. **Bot TKT 2026** gives you ready-to-use bot
 
 <div align="center">
 
-[![Download Bot TKT 2026](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bot-tkt-2026)
+[![Download Bot TKT 2026](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bot-tkt-2026)
 
 **Version 2026.04.19** — Multi-platform automation suite. Free forever.
 
